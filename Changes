@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::Fitness.
+
+0.01  Wed Oct  3 11:54:29 2001
+	- original version; created by h2xs 1.19
+0.02  Wed Oct  3 12:25:00 CEST 2001
+       - added bmi() and max_watt_test()
